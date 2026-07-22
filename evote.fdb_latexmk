@@ -1,15 +1,15 @@
 # Fdb version 3
-["bibtex evote"] 1784738804 "evote.aux" "evote.bbl" "evote" 1784738974
+["bibtex evote"] 1784763819 "evote.aux" "evote.bbl" "evote" 1784763820
   "./sbc.bst" 1784738267 21864 a668496cca21cfdd211f7fb5f0d57565 ""
-  "evote.aux" 1784738974 1672 3ddb027b8a93550227362899f3fbb93c "pdflatex"
+  "evote.aux" 1784763819 1881 0d036be48129af6f79db94cf35b0175f "pdflatex"
   "evote.bib" 1784738267 725 bdc459d9953eda08f21705ef20e3b912 ""
   (generated)
-  "evote.blg"
   "evote.bbl"
-["pdflatex"] 1784738973 "/home/rey/Documents/Evote/evote.tex" "/home/rey/Documents/Evote/evote.pdf" "evote" 1784738974
+  "evote.blg"
+["pdflatex"] 1784763819 "/home/rey/Documents/Evote/evote.tex" "/home/rey/Documents/Evote/evote.pdf" "evote" 1784763820
   "/etc/texmf/web2c/texmf.cnf" 1784673251 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/rey/Documents/Evote/evote.aux" 1784738974 1672 3ddb027b8a93550227362899f3fbb93c ""
-  "/home/rey/Documents/Evote/evote.tex" 1784738973 7881 57587a69992f04e77e0cb3a1f7df57ca ""
+  "/home/rey/Documents/Evote/evote.aux" 1784763819 1881 0d036be48129af6f79db94cf35b0175f ""
+  "/home/rey/Documents/Evote/evote.tex" 1784763817 8892 82d450b1f109a06b5d2b9cb3638ff766 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -85,16 +85,16 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1784726979 4770781 1ed1abab22da9c3e2cc82e4db562318b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1784726990 8256391 e21bd3d9878de2c99bb0adb7df58e447 ""
-  "evote.aux" 1784738974 1672 3ddb027b8a93550227362899f3fbb93c "pdflatex"
-  "evote.bbl" 1784738804 664 72f3ed45505486cb648045678ea11d4f "bibtex evote"
-  "evote.tex" 1784738973 7881 57587a69992f04e77e0cb3a1f7df57ca ""
+  "evote.aux" 1784763819 1881 0d036be48129af6f79db94cf35b0175f "pdflatex"
+  "evote.bbl" 1784763819 664 72f3ed45505486cb648045678ea11d4f "bibtex evote"
+  "evote.tex" 1784763817 8892 82d450b1f109a06b5d2b9cb3638ff766 ""
   "img/fig1.jpg" 1784738267 39933 79da1f77b4599c71378d76c4aec374c6 ""
   "img/fig2.jpg" 1784738267 22945 a28e60c395d91384d9e32be051b6cd94 ""
   "img/table.jpg" 1784738267 50466 e26ebe2ae26ae6e4a5f0aceac1320ded ""
   "sbc-template.sty" 1784738267 6074 ecc54df5124d8db4ac67c42cc728f3a5 ""
   (generated)
   "evote.log"
-  "/home/rey/Documents/Evote/evote.pdf"
-  "evote.pdf"
   "evote.aux"
+  "evote.pdf"
   "/home/rey/Documents/Evote/evote.log"
+  "/home/rey/Documents/Evote/evote.pdf"

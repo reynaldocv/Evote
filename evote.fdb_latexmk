@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex evote"] 1784695365 "evote.aux" "evote.bbl" "evote" 1784695367
+["bibtex evote"] 1784695365 "evote.aux" "evote.bbl" "evote" 1784699328
   "./sbc.bst" 1530733464 21864 a668496cca21cfdd211f7fb5f0d57565 ""
-  "evote.aux" 1784695366 1958 0d7e28575fafe645a85664c650300130 "pdflatex"
+  "evote.aux" 1784699327 1958 0d7e28575fafe645a85664c650300130 "pdflatex"
   "evote.bib" 1530733464 725 bdc459d9953eda08f21705ef20e3b912 ""
   (generated)
   "evote.bbl"
   "evote.blg"
-["pdflatex"] 1784695366 "/home/kai/Documents/Evote/evote.tex" "evote.pdf" "evote" 1784695367
+["pdflatex"] 1784699326 "/home/kai/Documents/Evote/evote.tex" "evote.pdf" "evote" 1784699328
   "/etc/texmf/web2c/texmf.cnf" 1779503929 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/kai/Documents/Evote/evote.tex" 1784695364 7816 5218c082ffabc6028e3ae3b46c6746ad ""
+  "/home/kai/Documents/Evote/evote.tex" 1784699325 7886 0dc15c26dab999022bf6c01988a168ab ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -82,9 +82,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1779504049 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1779504080 2802140 5798645dd052cd1dd12e835209db9ac0 ""
-  "evote.aux" 1784695366 1958 0d7e28575fafe645a85664c650300130 "pdflatex"
+  "evote.aux" 1784699327 1958 0d7e28575fafe645a85664c650300130 "pdflatex"
   "evote.bbl" 1784695366 664 72f3ed45505486cb648045678ea11d4f "bibtex evote"
-  "evote.tex" 1784695364 7816 5218c082ffabc6028e3ae3b46c6746ad ""
+  "evote.tex" 1784699325 7886 0dc15c26dab999022bf6c01988a168ab ""
   "img/fig1.jpg" 1530733464 39933 79da1f77b4599c71378d76c4aec374c6 ""
   "img/fig2.jpg" 1530733464 22945 a28e60c395d91384d9e32be051b6cd94 ""
   "img/table.jpg" 1530733464 50466 e26ebe2ae26ae6e4a5f0aceac1320ded ""

@@ -4,8 +4,6 @@
 \usepackage{graphicx,url}
 \usepackage[utf8]{inputenc}
 \usepackage[brazil]{babel}
-
-
      
 \sloppy
 
@@ -45,6 +43,7 @@
 \end{abstract}
 
 \section{Introduction}
+
 Blockchain technology has emerged as a promising solution for secure and transparent 
 digital transactions. Its decentralized nature and cryptographic principles make it an ideal 
 candidate for applications that require trust and integrity.
@@ -57,21 +56,43 @@ with the system using pseudonymous addresses,
 without revealing their real identities. This feature is particularly important in applications 
 that require confidentiality, such as voting systems, where the privacy of voters must be protected. 
 
-E-vote (electronic voting) is a system that allows voters to cast their votes electronically.
-The main goal of this research proposal is to develop a blockchain-based e-voting system that 
+E-vote (electronic vote) is an process that allows voters to cast their votes electronically.
+One goal of this research proposal is to develop a blockchain-based e-voting system that 
 ensures security, transparency, and privacy while avoiding coercion. The proposed system will 
 leverage the decentralized nature of blockchain technology to provide a tamper-proof voting process.
 THe e-voting process consider digital wallets for each voter and all candidates, where each wallet has 
 a unique coin (e.g, in bitcoin, each voter's wallet has a satoshi, which is the smallest unit of bitcoin).
 And, the voter can vote for a candidate by transferring its unique satoshi from their wallet 
 to the candidate's wallet. At the end of the voting process, count the number of satoshis in each candidate's 
-wallet to determine the winner.
+wallet to determine the winner. 
+
+One blockchain e-vote system records each transaction (vote) in a public ledger, 
+which is accessible to all participants. And, one can infer wich digital wallet belongs 
+to which candidate (At the end of the process, the quantity of satothis in each candidate's wallet 
+are related to the number of votes received by that candidate; therefore, it is possible to know which 
+candidate owns that wallet). In resume; each transaction in blockchain e-vote reveals
+the voter's choice (the candidate's wallet that received the satoshi). 
+
+One property in e-vote is that the voter's choice must be kept secret (i.e., the voter's choice must not be revealed 
+to anyone) and the voter receives a receipt that proves that the vote was cast 
+(i.e., the voter can prove that they voted, but not for whom they voted) and he can verify that their vote was 
+counted correctly (i.e., the voter can check that their vote was included in the final tally
+
+
+
+
+
+
+), but it is not possible to know which voter owns that wallet.
+
+
+
+
+
+
+
 
 In the explained e-voting process, each transaction (vote) is recorded 
-
-   hola 
-
-
 
 All full papers and posters (short papers) submitted to some SBC conference,
 including any supporting documents, should be written in English or in
